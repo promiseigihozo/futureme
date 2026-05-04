@@ -2,14 +2,14 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     line-height: 1.6;
-    background-color: #ffffff;
+    background-color: #c27373;
     color: #222;
 }
 
 .hero {
     text-align: center;
     padding: 40px 20px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #9999;
 }
 
 .hero-image {
